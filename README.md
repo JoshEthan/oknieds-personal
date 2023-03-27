@@ -1,2 +1,2 @@
 # oknieds-personal
-Oknieds is a planner project based on the popular GtD (Getting Things Done) productivity method created by David Allen.
+Oknieds is a planner project based on the popular GtD (Getting Things Done) productivity method created by David Allen. With Oknieds, you can easily organize your tasks into specific categories and streamline your workflow for increased productivity and reduced stress. Whether you prefer a physical notebook or a digital app, Oknieds can help you stay on top of your tasks and achieve your goals.
